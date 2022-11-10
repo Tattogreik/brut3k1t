@@ -1,9 +1,0 @@
-replace
-this
-file
-with
-actual
-passwords
-for
-dictionary
-attack
